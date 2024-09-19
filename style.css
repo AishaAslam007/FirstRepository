@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+    font-size: 70px;
+}
+
+.div1{
+    background-color:lightsteelblue;
+    width: 200px;
+    padding: 30px;
+    border: 2px solid darkslategrey;
+    margin: 20px;
+}
